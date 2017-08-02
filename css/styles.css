@@ -1,0 +1,65 @@
+.animal-card {
+  float: left;
+  border: 1px solid black;
+  width: 300px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  height: 350px;
+  background-color: #16a085;
+  color: white;
+}
+
+img {
+  width: 300px;
+  height: 168px;
+}
+
+.animal-card p a {
+  text-decoration: none;
+  color: orange;
+}
+
+.wrapper {
+  background: rgba(70, 72, 82, 0.8);
+}
+
+
+body {
+  background: url(../img/bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+.banner {
+  background-color: #7f8c8d;
+  color: #2c3e50;
+  text-align: center;
+}
+
+p {
+  padding: 15px;
+}
+
+.cheetah {
+  background-color: #e74c3c;
+}
+
+.doggie {
+  background-color: ##d35400;
+}
+
+.panda {
+  background-color: #8e44ad;
+}
+
+.bear {
+  background-color: brown;
+}
+
+.piggie {
+  background-color: pink;
+}
