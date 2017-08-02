@@ -63,3 +63,10 @@ p {
 .piggie {
   background-color: pink;
 }
+
+@media screen and (max-width:  600px)  {
+  .animal-card {
+    width: 600px;
+  }
+
+}
